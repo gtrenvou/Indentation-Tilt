@@ -1,5 +1,5 @@
 # Indentation-Tilt
-Script permettant le traitement du titlt lors de l'indentation.
+Script permettant le traitement du titlt dans le cadre de l'essai d'indentation.
 
 ## Partie 1 : Modèle direct
 A partir de la géométrie de l'indenteur et de l'inclinaison de la surface indentée, il est possible de remonter à un coefficient d'aire corrigé.
